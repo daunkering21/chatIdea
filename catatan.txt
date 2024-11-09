@@ -1,0 +1,4 @@
+Tabel relasi
+Chatroom id hanya dimiliki oleh satu User
+
+Catatan penggunaan kolom ada di masing masing migration
